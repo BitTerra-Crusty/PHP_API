@@ -9,5 +9,4 @@ to run it
 >> create product table under shopping database
 >> create id, name, description, price and quantity fields on product table
 >> start xamp before running your application
-
-#and to run app, navigate to shopping then open command or CLI therefore run ng serve
+>>The front-end is under angular_UI repository 
